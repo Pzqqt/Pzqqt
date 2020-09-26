@@ -1,6 +1,8 @@
 ### Welcome 👋
 
-[![Pzqqt github stats](https://github-readme-stats.vercel.app/api?username=Pzqqt)](https://github.com/Pzqqt)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Pzqqt&show_icons=true)](https://github.com/Pzqqt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pzqqt&layout=compact)](https://github.com/Pzqqt)
 
 <!--
 **Pzqqt/Pzqqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
